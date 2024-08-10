@@ -1,0 +1,11 @@
+div{
+    height: 100px;
+    width: 100px;
+     color: white;
+    position: fixed;
+    top: 10px;
+    left: 150px;
+    background-image: url('tiger-img.jpg');
+    background-size: cover;
+    /* z-index: 1; */
+ }
